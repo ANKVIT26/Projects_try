@@ -1,0 +1,5 @@
+{
+  "name": "AI Weather Planner",
+  "description": "An intelligent weather application that provides detailed forecasts and AI-powered advice to help you plan your day, including activity suggestions and surfing conditions for coastal areas.",
+  "requestFramePermissions": []
+}
